@@ -33,7 +33,7 @@ app.use(express.json());
  * Server Activation
  */
 
-app.listen(7000, () {
+app.listen(7000, () => {
 	console.log(`OLÁ MUNDO, VAMOS QUEBRAR TUDO`);
 
   // Escreva aqui a sua msg para o mundo
