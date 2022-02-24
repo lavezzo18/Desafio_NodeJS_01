@@ -33,8 +33,8 @@ app.use(express.json());
  * Server Activation
  */
 
-app.listen(PORT, () => {
-	console.log(`Listening on port ${PORT}`);
+app.listen(7000, () {
+	console.log(`OLÁ MUNDO, VAMOS QUEBRAR TUDO`);
 
   // Escreva aqui a sua msg para o mundo
   
